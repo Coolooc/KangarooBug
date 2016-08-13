@@ -1,0 +1,34 @@
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\bin\Debug\Kangaroo.exe
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\bin\Debug\Kangaroo.pdb
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.Form1.resources
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.Properties.Resources.resources
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.csproj.GenerateResource.Cache
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.exe
+c:\users\georgy\documents\visual studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.pdb
+C:\Users\Georgy\Documents\Visual Studio 2013\Projects\Kangaroo\Kangaroo\obj\Debug\Kangaroo.Form2.resources
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.exe
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.pdb
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\bin\Debug\Kangaroo.exe
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\bin\Debug\Kangaroo.pdb
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.Form1.resources
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.Properties.Resources.resources
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.exe
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.pdb
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\bin\Debug\Kangaroo.exe
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\bin\Debug\Kangaroo.pdb
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.Form1.resources
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.Form2.resources
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.Properties.Resources.resources
+C:\Users\Администратор\Desktop\KangarooYaDisk\Kangaroo\obj\Debug\Kangaroo.csproj.GenerateResource.Cache
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\obj\Debug\Kangaroo.exe
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\obj\Debug\Kangaroo.pdb
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\bin\Debug\Kangaroo.exe
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\bin\Debug\Kangaroo.pdb
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\obj\Debug\Kangaroo.Form1.resources
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\obj\Debug\Kangaroo.Properties.Resources.resources
+D:\YaDisk\Универ\ИНФ\РПП\KangarooYaDiskBug\Kangaroo\obj\Debug\Kangaroo.csproj.GenerateResource.Cache
